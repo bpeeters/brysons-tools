@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>brysons-tools</name>
+    <description>Gentoo Overlay</description>
+    <homepage>https://github.com/bpeeters/brysons-tools</homepage>
+    <owner>
+      <email>brysondpeeters@gmail.com</email>
+      <name>Bryson Peeters</name>
+    </owner>
+    <source type="git">https://github.com/bpeeters/brysons-tools.git</source>
+  </repo>
+</repositories>
